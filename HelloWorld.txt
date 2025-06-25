@@ -1,2 +1,3 @@
 "Hello,world!" 
 This is the first file of git "rep_try".
+Each sentence is added each time this file is opened.
